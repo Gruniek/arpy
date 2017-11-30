@@ -2,6 +2,8 @@
 # -*- coding: latin-1 -*-
 # https://pypi.python.org/pypi/pyserial
 # python setup.py install
+# use : python get_data.py <PORT> <Speed>
+# ex  : python get_data.py /dev/ttyUSB0 9600
 
 import sys
 import serial #python-serial 
